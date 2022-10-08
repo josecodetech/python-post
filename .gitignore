@@ -8,3 +8,5 @@ clave.txt
 /videos
 /imagenes
 /cheet_python
+venv/
+/build
